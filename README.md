@@ -1,6 +1,6 @@
 # DISCORD THEMES
 
-## 1: Creating an Cyan-Blue Anime CSS Theme
+## 1: Aziname
 You will need to use Vencord or BetterDiscord.
 
 I only know for Vencord settings though.
